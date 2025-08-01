@@ -6,6 +6,7 @@ A machine learning-powered web application that analyzes URLs to detect potentia
 
 ---
 ![Project Screenshot](https://raw.githubusercontent.com/Aditya-Sai-19/PHISHING-URL-DETECTION/main/project-screenshot.png)
+![Project Screenshot](https://raw.githubusercontent.com/Aditya-Sai-19/PHISHING-URL-DETECTION/main/project-screenshot-1.png)
 ---
 
 ## ✨ Features
