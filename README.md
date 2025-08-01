@@ -4,6 +4,10 @@ A machine learning-powered web application that analyzes URLs to detect potentia
 
 [**View Live Demo**](https://web-production-e5644.up.railway.app//)
 
+---
+![Project Screenshot](https://raw.githubusercontent.com/Aditya-Sai-19/PHISHING-URL-DETECTION/main/project-screenshot.png)
+---
+
 ## ✨ Features
 
 - **Real-time URL Analysis** - Instant phishing detection for any website
